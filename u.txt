@@ -1,0 +1,49 @@
+Glav:
+header
+    a*16
+    img*8
+    form*1
+    input = "text"*1
+    ul*2
+section
+    button*16
+    a*2
+    img*25
+    h2*9
+    h3*3
+    p*2
+footer
+    img*4
+    a*11
+Izbrannoe:
+header
+    a*16
+    img*4
+    form*1
+    input = "text"*1
+section
+    button*59
+    ul*1
+    a*2
+    img*55
+    h2*1
+    p*2
+footer
+    img*4
+    a*11
+    Catalog:
+header
+    a*16
+    img*4
+    form*1
+    input = "text"*1
+section
+    button*59
+    ul*1
+    a*2
+    img*55
+    h2*1
+    p*2
+footer
+    img*4
+    a*11
